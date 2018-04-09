@@ -1,0 +1,71 @@
+{
+
+    "metadata" :
+    {
+        "formatVersion" : 3,
+        "generatedBy"   : "Blender 2.60 Exporter",
+        "vertices"      : 444,
+        "faces"         : 884,
+        "normals"       : 444,
+        "colors"        : 0,
+        "uvs"           : 322,
+        "materials"     : 1,
+        "morphTargets"  : 24
+    },
+
+    "scale" : 1.000000,
+
+    "materials": [	{
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "monster",
+	"colorDiffuse" : [0.6400000190734865, 0.6400000190734865, 0.6400000190734865],
+	"colorSpecular" : [0.37434511778136503, 0.37434511778136503, 0.37434511778136503],
+	"mapDiffuse" : "monster.jpg",
+	"mapDiffuseWrap" : ["repeat", "repeat"],
+	"shading" : "Lambert",
+	"specularCoef" : 50,
+	"opacity" : 1.0,
+	"vertexColors" : false
+	}],
+
+    "vertices": [ -220.0,
+        -0.0,
+        0.0,
+        -190.0,
+        -0.0,
+        17.320509,
+        -190.0,
+        -0.0,
+        -17.320509,
+        0.0,
+        -220.0,
+        0.0,
+        0.0,
+        -190.0,
+        17.320509,
+        -0.0,
+        -190.0,
+        -17.320509,
+        220.0,
+        -0.0,
+        -0.0,
+        190.0,
+        -0.0,
+        17.320509,
+        190.0,
+        -0.0,
+        -17.320509,
+        0.0,
+        220.0,
+        -0.0,
+        0.0,
+        190.0,
+        17.320509,
+        0.0,
+        190.0,
+        -17.320509]
+
+
+
+}
